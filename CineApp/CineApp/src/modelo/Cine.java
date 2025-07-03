@@ -9,11 +9,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-/**
- *
- * @author juani
- */
-
 public class Cine implements Serializable {
     private List<Sala> salas;
     private List<Entrada> entradas;

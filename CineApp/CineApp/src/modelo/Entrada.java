@@ -7,10 +7,6 @@ package modelo;
 import java.io.Serializable;
 
 /**
- *
- * @author juani
- */
-/**
  * Representa una entrada comprada por un cliente para una butaca en una sala.
  */
 public class Entrada implements Serializable {

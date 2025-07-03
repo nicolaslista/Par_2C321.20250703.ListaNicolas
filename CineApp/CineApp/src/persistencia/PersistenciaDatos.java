@@ -7,10 +7,6 @@ package persistencia;
 import modelo.Cine;
 import java.io.*;
 
-/**
- *
- * @author juani
- */
 public class PersistenciaDatos {
 
     private static final String NOMBRE_ARCHIVO = "cine.ser";

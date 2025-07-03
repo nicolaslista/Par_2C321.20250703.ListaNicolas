@@ -6,10 +6,6 @@ package modelo;
 
 import java.io.Serializable;
 
-/**
- *
- * @author juani
- */
 public class Butaca implements Serializable{
     private int fila;
     private int numero;

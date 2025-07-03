@@ -7,10 +7,7 @@ package modelo;
 import java.io.Serializable;
 import java.util.Objects;
 
-/**
- *
- * @author juani
- */
+
 public class Cliente implements Serializable{
     private String nombre;
     private String email;
