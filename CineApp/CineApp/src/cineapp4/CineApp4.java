@@ -4,9 +4,10 @@
  */
 package cineapp4;
 
-import modelo.*;
-import persistencia.*;
-import vista.*;
+import modelo.Cine;
+import modelo.Sala;
+import persistencia.PersistenciaDatos;
+import vista.LoginVista;
 import javafx.application.Application;
 import javafx.stage.Stage;
 
